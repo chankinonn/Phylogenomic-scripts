@@ -1,2 +1,3 @@
 # Phylogenomic-scripts
-## select-loci
+## select_loci_v3.py
+
